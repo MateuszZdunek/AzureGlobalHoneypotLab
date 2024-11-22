@@ -15,3 +15,17 @@ This project demonstrates the collection, enrichment, and visualization of faile
 ## Code
 - [**PowerShell Script**](./powershell_script.ps1): Script to collect and send logs to Azure.
 - [**KQL Query**](./kql_query.kql): Query for visualizing and analyzing RDP login attempts.
+
+## Screenshots
+### 1. Azure VM Configuration
+![Azure VM NIC](./screenshots/NICConfig.png)
+![Azure VM NIC](./screenshots/FirewallConfig.png)
+
+### 2. Powershell Logs
+![Powershell Logs](./screenshots/Powershell.png)
+
+### 3. KQL Querry
+![KQL Querry](./screenshots/KQL.png)
+
+### 4. RDP Attempts Map
+![RDP Attempts Map](./screenshots/map.png)
