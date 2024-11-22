@@ -11,3 +11,7 @@ This project demonstrates the collection, enrichment, and visualization of faile
    IP addresses were processed using a geolocation API to gather location data.  
 4. **Data Visualization**  
    Logs were processed and sent to Azure Monitor Logs for analysis and visualization on an interactive map.
+
+## Code
+- [**PowerShell Script**](./powershell_script.ps1): Script to collect and send logs to Azure.
+- [**KQL Query**](./kql_query.kql): Query for visualizing and analyzing RDP login attempts.
